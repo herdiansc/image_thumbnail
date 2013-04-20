@@ -1,2 +1,2 @@
-image_thumbnail
+Image Thumbnail Helper
 ===============
